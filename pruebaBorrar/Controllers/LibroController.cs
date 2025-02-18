@@ -5,7 +5,7 @@ namespace pruebaBorrar.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PruebaController : ControllerBase
+    public class LibroController : ControllerBase
     {
     }
 }
